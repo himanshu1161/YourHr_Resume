@@ -82,3 +82,6 @@ YourHR is a job search service application that enables job seekers to sign up a
   - **`routes`**: Contains API routes (`userRoutes.js`).
   - **`server.js`**: Main server setup and configuration file.
 - **`uploads`**: Directory for storing uploaded resume files.
+
+  ## Example Database File:
+   {"_id":{"$oid":"66ced28c49ba7ed35ee0b9b4"},"name":"Himanshu","email":"mishrah116@gmail.com","phone":"9582703038","qualifications":"mca","resume":"uploads\\1724830348727-Himanshu resume -1.pdf","__v":{"$numberInt":"0"}}
